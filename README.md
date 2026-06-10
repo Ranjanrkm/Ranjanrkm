@@ -9,6 +9,7 @@
 💡 Skilled in:
 - MERN Stack
 - Java
+- Python
 - Firebase
 - REST APIs
 - JWT Authentication
@@ -20,8 +21,8 @@
 
 📫 Reach me:
 - Email: mahatoranjan5432@gmail.com
-- Portfolio: YOUR_PORTFOLIO
-- LinkedIn: YOUR_LINKEDIN
+- Portfolio: https://portfolio-six-ivory-64.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/ranjan-kumar-mahato-90112424b/
 
 <!--
 **Ranjanrkm/Ranjanrkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
