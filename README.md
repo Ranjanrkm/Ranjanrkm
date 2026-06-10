@@ -51,6 +51,12 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjanrkm&layout=compact&theme=tokyonight" />
 </p>
+
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Ranjanrkm/Ranjanrkm/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Ranjanrkm/Ranjanrkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
