@@ -24,6 +24,12 @@
 - Portfolio: https://portfolio-six-ivory-64.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/ranjan-kumar-mahato-90112424b/
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;AI+Integration+Enthusiast;Building+Innovative+Projects" />
+</p>
+
 <!--
 **Ranjanrkm/Ranjanrkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
