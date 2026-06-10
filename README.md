@@ -62,6 +62,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Ranjanrkm&color=blue)
 
+## 💭 Developer Quote
+
+"First, solve the problem. Then, write the code."
+
 <!--
 **Ranjanrkm/Ranjanrkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
