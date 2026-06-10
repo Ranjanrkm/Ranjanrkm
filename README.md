@@ -60,7 +60,7 @@
 
 
 
-![SDKMAN Version](https://img.shields.io/sdkman/v/java)
+![](https://komarev.com/ghpvc/?username=Ranjanrkm&color=blue)
 
 <!--
 **Ranjanrkm/Ranjanrkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
