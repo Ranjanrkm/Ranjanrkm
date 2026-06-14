@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=System+Design+%26+Architecture;MERN+Stack+%26+Java+Development;Building+AI-Powered+Web+Apps;Solving+Complex+Problems+with+Clean+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=System+Design+%26+Architecture;MERN+Stack+%26+Java+Development;Building+AI-Powered+Web+Apps;Educational+%26+Coaching+Portals;Solving+Complex+Problems+with+Clean+Code" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -14,45 +14,68 @@
 
 <br/>
 
-## 👨‍💻 Engineering Profile
+## 👨‍💻 Engineering Philosophy & Profile
 
-I am a software engineer focused on building high-performance, scalable web applications and integrating next-generation Generative AI models.
+I am a software engineer obsessed with highly structured development environments, clean file hierarchies, and building high-performance, scalable web applications. My development philosophy is rooted in creating **fully responsive** digital ecosystems that run flawlessly on all devices across the globe.
 
-* 🔭 **Current Focus:** AI-powered digital solutions and advanced backend architecture.
-* 💡 **Core Expertise:** MERN Stack, Java, REST APIs, Firebase & JWT Authentication.
+* 🔭 **Current Focus:** AI-powered digital solutions and comprehensive Ed-Tech/Coaching academy web portals.
+* ⚡ **Core Stack:** Deep expertise in setting up lightning-fast environments using Vite, React.js, Tailwind CSS, and Node.js.
 * 🤖 **AI Integration:** Gemini APIs, Prompt Engineering, Oracle OCI Generative AI Certified.
 * 🏆 **Algorithmic Prowess:** 500+ problems solved across LeetCode & HackerRank (5-Star Gold Badge in Java).
 
 <br/>
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,firebase,mysql,tailwind,git,github,vscode&perline=12" alt="Tech Stack Icons" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend Architecture</b></td>
+      <td align="center"><b>Backend & Databases</b></td>
+      <td align="center"><b>Tools & Platforms</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind,html,css" alt="Frontend" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,java" alt="Backend" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
-## 🚀 Flagship Projects
+## 🚀 Enterprise & Flagship Projects
 
 <table borderColor="#30363d">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">🎓 Ed-Tech Portals</h3>
+      <br/>
+      <p>Architecting multi-page web applications for educational coaching academies. Focused on strictly organized component hierarchies, dynamic routing, and completely responsive UI/UX across all mobile and desktop viewports.</p>
+      <p><strong>Tech Stack:</strong> React, Vite, Tailwind CSS, Firebase</p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🧠 NexusAI</h3>
       <br/>
-      <p>An embeddable AI support platform that enables businesses to seamlessly integrate custom generative AI chatbots into their websites.</p>
-      <p><strong>Tech Stack:</strong> React.js, Node.js, Express.js, Firebase, Gemini API, Tailwind CSS</p>
+      <p>An embeddable AI support platform enabling businesses to seamlessly integrate custom generative AI chatbots into their infrastructure.</p>
+      <p><strong>Tech Stack:</strong> React, Node.js, Gemini API, Tailwind</p>
       <p align="center">
-        <a href="https://github.com/Ranjanrkm/NexusAI"><img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Ranjanrkm/NexusAI"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🏋️‍♂️ Vyayam AI</h3>
       <br/>
       <p>A full-stack fitness application utilizing generative AI to dynamically construct personalized, real-time workout routines based on user biometrics.</p>
-      <p><strong>Tech Stack:</strong> React.js, Node.js, Express.js, Firebase, Generative AI, Tailwind</p>
+      <p><strong>Tech Stack:</strong> React.js, Express.js, Firebase, Generative AI</p>
       <p align="center">
-        <a href="https://github.com/Ranjanrkm/Vyayam-AI"><img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Ranjanrkm/Vyayam-AI"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -60,23 +83,26 @@ I am a software engineer focused on building high-performance, scalable web appl
 
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 Global GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjanrkm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjanrkm&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranjanrkm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjanrkm&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ranjanrkm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <br/>
 
-## 🐍 Contribution Graph
+## 🐍 Dynamic Contribution Graph
 
-*(Note: To make this snake work, you must create a GitHub Action workflow in your repository!)*
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ranjanrkm/Ranjanrkm/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranjanrkm/Ranjanrkm/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranjanrkm/Ranjanrkm/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ranjanrkm/Ranjanrkm/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranjanrkm/Ranjanrkm/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranjanrkm/Ranjanrkm/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -86,20 +112,5 @@ I am a software engineer focused on building high-performance, scalable web appl
 
 ---
 <div align="center">
-  <i>"Building scalable and AI-powered applications that solve real-world problems."</i>
+  <i>"Building scalable, perfectly structured, and AI-powered applications that solve real-world problems."</i>
 </div>
-
-<!--
-**Ranjanrkm/Ranjanrkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
